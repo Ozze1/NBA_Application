@@ -1,5 +1,6 @@
 # NBA_Application
-An NBA application thats shows information on NBA players stats based on the users choice, also displays the team they play for and have played for.
+An NBA application thats shows information on NBA players stats based on the users choice, also displays the team the player
+play for and have played for.
 
 ## Getting started
 
