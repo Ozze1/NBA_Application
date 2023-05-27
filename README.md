@@ -1,5 +1,4 @@
-# u06
-
+# NBA_Application
 
 
 ## Getting started
