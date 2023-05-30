@@ -22,7 +22,9 @@ python main.py [--player "PLAYER_NAME"]
 python main.py [--team "TEAM_NAME"]
 
 ```
+- Use the **--player** option followed by a player name to find player information and career stats.
 
+- Use the **--team** option followed by a team name to find team information, details, and year-by-year stats. 
 
 ## API Client Package
 The **nba_api** package is an Open Source MIT License. This package intends to make the APIs of [NBA.com](https://www.nba.com/)
